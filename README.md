@@ -1,6 +1,6 @@
 # HappyBirthday
 Udacity Android For Beginners
 
-##Getting Started
+## Getting Started
 
-##Installation
+## Installation
